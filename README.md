@@ -8,7 +8,7 @@
 - [X] Entendendo o que é Git e Github.
 - [X] Configurando o git.
 - [X] Essencial do Git.
-- [] Reposórios remotos.
+- [X] Reposórios remotos.
 - [] Ramificação.
 - [] Conteúdo extra.
 
@@ -31,4 +31,11 @@ Tabela de informações dos assuntos abordados.
       * [o ciclo de vida dos status de seus arquivos](#0-cliclo-de-vida-dos-status-de-seus-arquivos)
       * [visualizando logs](#visualizando-logs)
       * [desfazendo coisas](#desfazendo-coisas)
+   * [Repositórios remotos](#repositorios-remotos)
+      * [criando um repositório no git](#criando-um-repositorio-no-git)
+      * [criando e adicionando uma chave SSH](#criando-e-adicionando-uma-chave-ssh)
+      * [ligando repositório local a um remoto](#ligando-repositorio-local-a-um-remoto)
+      * [enviando mudanças para um repositório remoto](#enviando-mudancas-para-um-repositorio-remoto)
+      * [clonando repositórios remotos](#clonando-repositorios-remotos)
+      * [fazendo fork de um projeto](#fazendo-fork-de-um-projeto)
 <!--te-->
