@@ -1,6 +1,7 @@
-###Reciclando conhecimentos de git.
-
-<p align="center">Abordando de forma prática meus conhecimentos básicos com controle de versão Git.</p>
+<h1 align="center">
+    <a href="https://www.udemy.com/course/git-e-github-para-iniciantes/">🔗 Git e Github básico</a>
+</h1>
+<p align="center">Reciclando conhecimentos básicos de Git</p>
 
 - Assuntos abordados
 
