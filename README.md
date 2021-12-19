@@ -9,7 +9,7 @@
 - [X] Configurando o git.
 - [X] Essencial do Git.
 - [X] Reposórios remotos.
-- [] Ramificação.
+- [X] Ramificação.
 - [] Conteúdo extra.
 
 ---
@@ -38,4 +38,11 @@ Tabela de informações dos assuntos abordados.
       * [enviando mudanças para um repositório remoto](#enviando-mudancas-para-um-repositorio-remoto)
       * [clonando repositórios remotos](#clonando-repositorios-remotos)
       * [fazendo fork de um projeto](#fazendo-fork-de-um-projeto)
+   * [Ramificação](#ramificacao)
+      * [o que é uma branch e porque usar?](#o-que-e-uma-branch-e-porque-usar)
+      * [criando uma branch](#criando-uma-branch)
+      * [movendo e deletando branchs](#movendo-e-deletando-branchs)
+      * [entendendo o merge](#entendendo-o-merge)
+      * [entendendo o rebase](#entendendo-o-rebase)
+      * [merge e rebase na prática](#merge-e-rebase-na-pratica)
 <!--te-->
