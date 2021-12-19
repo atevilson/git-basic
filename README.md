@@ -45,4 +45,11 @@ Tabela de informações dos assuntos abordados.
       * [entendendo o merge](#entendendo-o-merge)
       * [entendendo o rebase](#entendendo-o-rebase)
       * [merge e rebase na prática](#merge-e-rebase-na-pratica)
+   * [Extras](#extras)
+      * [criando .gitignore](#criando-gitignore)
+      * [git stash](#git-stash)
+      * [configurando Alias](#configurando-alias)
+      * [versionando com tags](#versionando-com-tags)
+      * [git revert](#git-revert)
+      * [deletando tags e branchs remotos](#deletando-tags-e-branchs-remotos)
 <!--te-->
